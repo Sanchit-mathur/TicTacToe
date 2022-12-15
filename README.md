@@ -17,21 +17,21 @@ Tic Tac Toe is known by a few other names around the world. The most common of t
 
 
 ## HOW TO PLAY
-1 Choose your opponent
-2 Press a square to place your mark
-3 Make three in a row horizontally, vertically, or diagonally to win
-4 Watch your opponent and block them if they get 2 in a row
-5 Try a harder mode to keep it interesting
-6 Turn off sounds using the top right menu
-7 Use the top left menu to reset your scores for the current opponent
+1. Choose your opponent
+2. Press a square to place your mark
+3. Make three in a row horizontally, vertically, or diagonally to win
+4. Watch your opponent and block them if they get 2 in a row
+5. Try a harder mode to keep it interesting
+6. Turn off sounds using the top right menu
+7. Use the top left menu to reset your scores for the current opponent
 
 
 ## FEATURES
-4 Computer difficulties to choose from
-Take turns playing with a friend in 2 player mode
-Beautiful graphics and animations
-Simple, pleasing sound effects
-Track your scores and reset them as you'd like
-Easy to use interface
-Completely free!
-Lightning fast loading
+1. 4 Computer difficulties to choose from
+2. Take turns playing with a friend in 2 player mode
+3. Beautiful graphics and animations
+4. Simple, pleasing sound effects
+5. Track your scores and reset them as you'd like
+6. Easy to use interface
+7. Completely free!
+8. Lightning fast loading
