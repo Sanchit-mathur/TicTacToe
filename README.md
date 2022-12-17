@@ -13,7 +13,7 @@ If all 9 squares are filled and neither player has 3 in a row, the game is consi
 
 
 ## NOUGHTS AND CROSSES
-Tic Tac Toe is known by a few other names around the world. The most common of these is "Noughts and Crosses" and it is sometimes simply referred to as the "XO game."
+Tic Tac Toe is known by a few other names around the world. The most common of these is "Noughts and Crosses" and it is sometimes simply referred to as the "X-O game."
 
 
 ## HOW TO PLAY
